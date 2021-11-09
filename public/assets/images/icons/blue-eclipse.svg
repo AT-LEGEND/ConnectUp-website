@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="171" height="171" viewBox="0 0 171 171">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.751" x2="0.17" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4bcfff"/>
+      <stop offset="1" stop-color="#1ab5ee"/>
+    </linearGradient>
+    <filter id="Ellipse_97" x="0" y="0" width="171" height="171" filterUnits="userSpaceOnUse">
+      <feOffset dy="15" input="SourceAlpha"/>
+      <feGaussianBlur stdDeviation="15" result="blur"/>
+      <feFlood flood-color="#1ab5ee" flood-opacity="0.149"/>
+      <feComposite operator="in" in2="blur"/>
+      <feComposite in="SourceGraphic"/>
+    </filter>
+  </defs>
+  <g id="blue-eclipse" transform="translate(45 30)">
+    <g transform="matrix(1, 0, 0, 1, -45, -30)" filter="url(#Ellipse_97)">
+      <circle id="Ellipse_97-2" data-name="Ellipse 97" cx="40.5" cy="40.5" r="40.5" transform="translate(45 30)" fill="url(#linear-gradient)"/>
+    </g>
+  </g>
+</svg>

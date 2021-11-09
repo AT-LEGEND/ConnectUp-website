@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2299" data-name="Rectangle 2299" width="36" height="36" transform="translate(-7282 8810)" fill="none"/>
+    </clipPath>
+  </defs>
+  <g id="facebook" transform="translate(-1045 -6372)">
+    <g id="Ellipse_306" data-name="Ellipse 306" transform="translate(1045 6372)" fill="#fff" stroke="#fff" stroke-width="3">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="28.5" fill="none"/>
+    </g>
+    <g id="Component_383_24" data-name="Component 383 – 24" transform="translate(1057 6384)">
+      <g id="Mask_Group_216" data-name="Mask Group 216" transform="translate(7282 -8810)" clip-path="url(#clip-path)">
+        <path id="_023-facebook" data-name="023-facebook" d="M16,3.985h2.191V.169A28.292,28.292,0,0,0,15,0C8.064,0,9.95,7.85,9.674,9H6.187v4.266H9.673V24h4.274V13.267h3.345L17.823,9H13.946c.188-2.824-.761-5.016,2.051-5.016Z" transform="translate(-7276.188 8816)" fill="#2e5ec5"/>
+      </g>
+    </g>
+  </g>
+</svg>

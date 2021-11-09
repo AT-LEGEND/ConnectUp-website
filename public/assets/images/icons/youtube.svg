@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="60" height="60" viewBox="0 0 60 60">
+  <defs>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_2359" data-name="Rectangle 2359" width="36" height="36" transform="translate(-24329 -5069)" fill="none" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+  </defs>
+  <g id="youtube" transform="translate(-1195 -6372)">
+    <g id="Ellipse_306" data-name="Ellipse 306" transform="translate(1195 6372)" fill="#fff" stroke="#fff" stroke-width="3">
+      <circle cx="30" cy="30" r="30" stroke="none"/>
+      <circle cx="30" cy="30" r="28.5" fill="none"/>
+    </g>
+    <g id="Component_395_1" data-name="Component 395 – 1" transform="translate(1207 6384)">
+      <g id="Mask_Group_201" data-name="Mask Group 201" transform="translate(24329 5069)" clip-path="url(#clip-path)">
+        <path id="_116-youtube" data-name="116-youtube" d="M.522,17.874a3.045,3.045,0,0,0,2.089,2.117c2.467.672,16.3.674,18.8,0A3.057,3.057,0,0,0,23.5,17.874a34.748,34.748,0,0,0-.03-11.945l.03.2A3.045,3.045,0,0,0,21.41,4.008c-2.434-.661-16.3-.686-18.8,0A3.058,3.058,0,0,0,.522,6.125a32.37,32.37,0,0,0,0,11.749Zm9.086-2.223V8.358l6.266,3.652Z" transform="translate(-24322.984 -5063.503)" fill="#e53935"/>
+      </g>
+    </g>
+  </g>
+</svg>
